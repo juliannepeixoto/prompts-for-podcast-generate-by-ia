@@ -18,8 +18,10 @@ Elevenlabs: Text-to-Speech, Model: Eleven Multilingual v2, Voice: Freya
 HitPaw: Mesclagem do áudio gerado no ElevenLabs e do áudio sem copyright (Journey, Roa). Reduzido o volume do áudio Jorney para 15%.
 
 Imagem de capa do "Pythoncast":
+
 ![pythoncast jfp](https://github.com/juliannepeixoto/prompts-for-podcast-generate-by-ia/assets/101682866/fa9bfc42-2f3e-46f5-b4fb-67ebe0cf0bda)
 
 Áudio do episódio:
+
 https://github.com/juliannepeixoto/prompts-for-podcast-generate-by-ia/assets/101682866/ebc7c1c5-400e-4594-95e8-115a2d1c7974
 
