@@ -11,7 +11,7 @@ ChatGPT:
 Dentro do mesmo chat de criação do artigo técnico (https://github.com/juliannepeixoto/juliannepeixoto-prompts-for-article-generate-by-ia) foi inserido o comando: Crie um roteiro de um minuto para explicar o que é Python e sua importância para o pequeno investidor.
 
 DALL-E/Bing:
-Crie a imagem de uma mulher apresentadora de podcast sobre mercado financeiro e tecnologia. Ela é jovem e descolada. Ela está sentada em um studio de gravação.
+Crie a imagem de uma mulher apresentadora de podcast sobre mercado financeiro e tecnologia. Ela é jovem e descolada. Ela está sentada em um estúdio de gravação.
 
 Elevenlabs: Text-to-Speech, Model: Eleven Multilingual v2, Voice: Freya
 
